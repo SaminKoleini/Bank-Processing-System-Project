@@ -1,0 +1,17 @@
+SavingAccount, 01, Sarah Thompson, 8900, 8
+SavingAccount, 02, Amanda Brown, 3800, 5
+CheckingAccount, 03, Ryan Miller, 7200, 500
+CheckingAccount, 04, Christopher Taylor, 4900, 1000
+CheckingAccount, 05, Samantha Clark, 6700, 1500
+PersonalCheckingAccount, 06, John Doe, 5000, 500, 123 Main Street
+PersonalCheckingAccount, 07, Jane Smith, 7500, 1000, 456 Elm Avenue
+PersonalCheckingAccount, 08, David Johnson, 3200, 1500, 789 Oak Drive
+PersonalCheckingAccount, 09, Emily Davis, 4300, 2500, 654 Maple Street
+BusinessCheckingAccount, 11, Matthew Hall, 5200, 300, 123456789
+BusinessCheckingAccount, 12, Ashley Anderson, 4400, 400, 987654321
+BusinessCheckingAccount, 13, Brian Wright, 3600, 100, 567890123
+PersonalSavingAccount, 14, Lauren Garcia, 5800, 3, Mortgage Account
+PersonalSavingAccount, 15, Joshua Martinez, 4100, 2, Student Account
+BusinessSavingAccount, 17, Elizabeth Johnson, 5900, 5, apple
+BusinessSavingAccount, 18, Olivia Wilson, 6200, 6, Samsung
+BusinessSavingAccount, 19, Jonathan Brown, 4200, 7, Indigo
